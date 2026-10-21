@@ -1,0 +1,2 @@
+# Week 5: Topic Modeling and Text Summarization
+This repository demonstrates advanced NLP techniques. It includes an implementation of Latent Dirichlet Allocation (LDA) for topic extraction and a Transformer-based pipeline for Abstractive Text Summarization.
